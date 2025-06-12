@@ -14,20 +14,6 @@
                             <Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                         </Items>
                     </Category>
-                    <Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontIsDefault="Yes">
-                        <Items>
-                            <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00CCE0D4" BoldFont="Yes" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="Track Changes after save" Foreground="0x02000000" Background="0x00369F33" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                        </Items>
-                    </Category>
-                    <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
-                        <Items>
-                            <Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00414A4C" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00004F4F" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="Selected Text" Foreground="0x02000000" Background="0x00008080" BoldFont="Yes" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="Plain Text" Foreground="0x00F8F8F8" Background="0x001C212A" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                        </Items>
-                    </Category>
                     <Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
                         <Items>
                             <Item Name="Odd Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
@@ -92,6 +78,7 @@
                             <Item Name="enum name" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="delegate name" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="class name" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="keyword - control" Foreground="0x0080F0F6" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="MarkerFormatDefinition/HighlightedDefinition" Foreground="0x0000FFFF" Background="0x00008080" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00004F4F" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="Selected Text" Foreground="0x02000000" Background="0x00008080" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
@@ -113,6 +100,20 @@
                             <Item Name="XML Doc Tag" Foreground="0x00E09A1E" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="XML Doc Comment" Foreground="0x00E09A1E" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00005E5E" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
+                        <Items>
+                            <Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00414A4C" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00004F4F" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="Selected Text" Foreground="0x02000000" Background="0x00008080" BoldFont="Yes" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="Plain Text" Foreground="0x00F8F8F8" Background="0x001C212A" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontIsDefault="Yes">
+                        <Items>
+                            <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00CCE0D4" BoldFont="Yes" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="Track Changes after save" Foreground="0x02000000" Background="0x00369F33" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                         </Items>
                     </Category>
                 </Categories>
