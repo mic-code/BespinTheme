@@ -88,6 +88,7 @@
                     <RemoveShortcut Command="Edit.ToggleWordWrap" Scope="Text Editor">Ctrl+E, Ctrl+W</RemoveShortcut>
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, E</RemoveShortcut>
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, Ctrl+E</RemoveShortcut>
+                    <Shortcut Command="View.QuickActions" Scope="Global">Ctrl+'</Shortcut>
                 </UserShortcuts>
             </KeyboardShortcuts>
         </Category>
