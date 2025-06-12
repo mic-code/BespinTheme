@@ -69,7 +69,7 @@
                             <Item Name="xml doc comment - delimiter" Foreground="0x00946714" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="xml doc comment - comment" Foreground="0x00E09A1E" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="method name" Foreground="0x00FFFFFF" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="parameter name" Foreground="0x00A3D1AE" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="parameter name" Foreground="0x00A4E1FF" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="local name" Foreground="0x00FFFFFF" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="type parameter name" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="struct name" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
