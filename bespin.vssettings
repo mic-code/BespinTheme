@@ -54,6 +54,7 @@
                     </Category>
                     <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
                         <Items>
+                            <Item Name="extension method name" Foreground="0x00FFFFFF" Background="0x01000001" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="HTML Tag Delimiter" Foreground="0x00EDA837" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="HTML Server-Side Script" Foreground="0x0000AAFF" Background="0x02000000" BoldFont="Yes" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="HTML Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
