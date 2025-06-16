@@ -89,6 +89,9 @@
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, E</RemoveShortcut>
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, Ctrl+E</RemoveShortcut>
                     <Shortcut Command="View.QuickActions" Scope="Global">Ctrl+'</Shortcut>
+                    <RemoveShortcut Command="Edit.CompleteWord" Scope="Text Editor">Alt+Right Arrow</RemoveShortcut>
+                    <Shortcut Command="Window.MovetoNextTabGroup" Scope="Global">Alt+Right Arrow</Shortcut>
+                    <Shortcut Command="Window.MovetoPreviousTabGroup" Scope="Global">Alt+Left Arrow</Shortcut>
                 </UserShortcuts>
             </KeyboardShortcuts>
         </Category>
