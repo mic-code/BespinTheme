@@ -34,6 +34,7 @@
                     <Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
                     <Scope Name="XAML Editor" ID="{A4F9FF65-A78C-4650-866D-5069CC4127CF}"/>
                     <Scope Name="Microsoft SQL Server Data Tools, Table Designer" ID="{2366CF66-2394-4701-AFCA-37ED7FD41648}"/>
+                    <Scope Name="GitHub Copilot Chat" ID="{40EA2E6B-2121-4BB8-A43E-C83C04B51041}"/>
                     <Scope Name="Terminal" ID="{D212F56B-C48A-434C-A121-1C5D80B59B9F}"/>
                     <Scope Name="Visual Basic Editor" ID="{2C015C70-C72C-11D0-88C3-00A0C9110049}"/>
                     <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
@@ -82,14 +83,15 @@
                 <DefaultShortcuts/>
                 <ShortcutsScheme/>
                 <UserShortcuts>
-                    <Shortcut Command="Edit.FindAllReferences" Scope="Global">Ctrl+E</Shortcut>
+                    <Shortcut Command="Debug.ApplyCodeChanges" Scope="Global">Alt+X</Shortcut>
                     <RemoveShortcut Command="Edit.Duplicate" Scope="Text Editor">Ctrl+E, V</RemoveShortcut>
                     <RemoveShortcut Command="Edit.Duplicate" Scope="Text Editor">Ctrl+E, Ctrl+V</RemoveShortcut>
                     <RemoveShortcut Command="Edit.ToggleWordWrap" Scope="Text Editor">Ctrl+E, Ctrl+W</RemoveShortcut>
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, E</RemoveShortcut>
                     <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Ctrl+E, Ctrl+E</RemoveShortcut>
-                    <Shortcut Command="View.QuickActions" Scope="Global">Ctrl+'</Shortcut>
                     <RemoveShortcut Command="Edit.CompleteWord" Scope="Text Editor">Alt+Right Arrow</RemoveShortcut>
+                    <Shortcut Command="Edit.FindAllReferences" Scope="Global">Ctrl+E</Shortcut>
+                    <Shortcut Command="View.QuickActions" Scope="Global">Ctrl+'</Shortcut>
                     <Shortcut Command="Window.MovetoNextTabGroup" Scope="Global">Alt+Right Arrow</Shortcut>
                     <Shortcut Command="Window.MovetoPreviousTabGroup" Scope="Global">Alt+Left Arrow</Shortcut>
                 </UserShortcuts>
