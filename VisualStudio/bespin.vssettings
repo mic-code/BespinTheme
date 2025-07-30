@@ -86,7 +86,7 @@
                             <Item Name="urlformat" Foreground="0x0039E455" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="CurrentLineActiveFormat" Foreground="0x00353D4E" Background="0x00353D4E" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="outlining.verticalrule" Foreground="0x00A5A5A5" Background="0x02000000" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
-                            <Item Name="outlining.collapsehintadornment" Foreground="0x00003E3E" Background="0x00003E3E" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
+                            <Item Name="outlining.collapsehintadornment" Foreground="0x00003E3E" Background="0x00222833" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="Track Changes after save" Foreground="0x02000000" Background="0x00369F33" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="Line Number" Foreground="0x0036C1E5" Background="0x001C212A" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
                             <Item Name="OverviewMarginCollapsedRegion" Foreground="0x01000000" Background="0x00004F4F" BoldFont="No" StrikethroughFont="No" ItalicFont="No" UnderlineFont="No"/>
