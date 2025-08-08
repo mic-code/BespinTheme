@@ -1,0 +1,36 @@
+{
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"playwright.reuseBrowser": false,
+	"playwright.showTrace": true,
+	"playwright.env": {},
+	"terminal.integrated.fontFamily": "RobotoMono Nerd Font",
+	"[scss]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"cmake.showOptionsMovedNotification": false,
+	"vueColors.highlightLine": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.gotoLocation.multipleDefinitions": "goto",
+	"git.openRepositoryInParentFolders": "never",
+	"powershell.promptToUpdatePowerShell": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"aider.customModels": {
+		"deepseek": "bedrock/deepseek.r1-v1:0"
+	},
+	"workbench.editorAssociations": {
+		"*.svg": "default"
+	},
+	"svg.preview.mode": "svg",
+	"editor.minimap.maxColumn": 1200,
+	"html.format.wrapLineLength": 0,
+	"svg.preview.autoShow": true,
+	"explorer.confirmDragAndDrop": false,
+	"security.allowedUNCHosts": [
+		"192.168.1.167",
+		"192.168.1.10"
+	],
+	"editor.minimap.showSlider": "always"
+}
