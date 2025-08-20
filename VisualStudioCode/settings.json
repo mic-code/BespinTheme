@@ -17,9 +17,6 @@
 	"git.openRepositoryInParentFolders": "never",
 	"powershell.promptToUpdatePowerShell": false,
 	"security.workspace.trust.untrustedFiles": "open",
-	"aider.customModels": {
-		"deepseek": "bedrock/deepseek.r1-v1:0"
-	},
 	"workbench.editorAssociations": {
 		"*.svg": "default"
 	},
