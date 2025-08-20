@@ -32,5 +32,6 @@
 		"192.168.1.167",
 		"192.168.1.10"
 	],
-	"editor.minimap.showSlider": "always"
+	"editor.minimap.showSlider": "always",
+	"iconify.inplace": false
 }
