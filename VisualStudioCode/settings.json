@@ -15,6 +15,12 @@
 				"singleInstance": true,
 				"command": "StartAiderGemini25Pro.ps1"
 			},
+			{
+				"name": "$(light-bulb) Deepseek",
+				"color": "white",
+				"singleInstance": true,
+				"command": "StartAiderDeepseek.ps1"
+			},
 		],
 		"defaultColor": "white",
 		"reloadButton": "↻",
